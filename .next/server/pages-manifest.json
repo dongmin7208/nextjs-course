@@ -2,6 +2,7 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/portfolio/[projectid]": "pages/portfolio/[projectid].js",
-  "/blog/[...slug]": "pages/blog/[...slug].js"
+  "/404": "pages/404.js",
+  "/blog/[...slug]": "pages/blog/[...slug].js",
+  "/clients/[id]/[clientprojectid]": "pages/clients/[id]/[clientprojectid].js"
 }
